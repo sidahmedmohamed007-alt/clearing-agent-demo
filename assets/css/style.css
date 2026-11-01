@@ -358,3 +358,7 @@ form .full { grid-column: 1 / -1; }
 @media print {
   .site-header, .site-footer, .hero-actions, .cta-band { display: none; }
 }
+
+/* demo banner — this build is a portfolio sample, not a real company */
+.demo-banner{background:#0d2a4a;color:#eaf2fb;text-align:center;font:600 12px/1.5 -apple-system,"Segoe UI",sans-serif;letter-spacing:.02em;padding:8px 14px;border-bottom:1px solid rgba(255,255,255,.15)}
+.demo-banner span{opacity:.75;font-weight:500}
